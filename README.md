@@ -1,2 +1,2 @@
 # test-repo
-Just for practice
+Just for practice.

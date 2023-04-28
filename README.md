@@ -29,5 +29,5 @@
 
 
 ## Report
-- This folder the report required.
+- This folder contains the report required.
 - The plagiarism declaration is inside the report.
